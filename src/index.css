@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    @apply mx-auto max-w-[90rem] px-6 sm:px-5 lg:px-7
+}
+
+body{
+    @apply font-IBMArabic
+}
+.slick-arrow{
+    display: none !important;
+}
+
+
+@media screen and (max-width : 767px) {
+    .specialGrid{
+        grid-template-columns: repeat(1,minmax(0,1fr)) !important;
+    }
+}
+@media screen and (min-width : 1025px ) and (max-width : 1240px) {
+    .specialGrid{
+        grid-template-columns: repeat(3,minmax(0,1fr)) !important;
+    }
+    
+}
+@media screen and (min-width : 768px ) and (max-width : 1024px) {
+    .specialGrid{
+        grid-template-columns: repeat(2,minmax(0,1fr)) !important;
+    }
+    
+}
+@media screen and (min-width : 1240px) {
+    .specialGrid{
+        grid-template-columns: repeat(4,minmax(0,1fr)) !important;
+    }
+}

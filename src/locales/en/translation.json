@@ -1,0 +1,160 @@
+{
+  "navLinks":{
+      "Home": "Home",
+      "News": "News",
+      "Finance & real estate": " Finance & Real Estate",
+      "Auctions": "Auctions",
+      "Real Estate Law": "Real Estate Law",
+      "Investment_opportunities": "Investment opportunities",
+      "Who we are": "Who we are",
+      "Advertise with us": "Advertise with us",
+      "Aqar 24 Program": "Akar 24 Program",
+      "Articles": "Articles",
+      "Infographic": "Infographic"
+  },
+  "Akar24":"Akar 24",
+  "ModeDay": "Light Mode",
+  "ModeNight": "Dark Mode",
+  "More": "More",
+
+  "footer": {
+    "slogan": "Your ideal property is just a step away",
+    "follow_Us": "Follow us on",
+    "sections": {
+      "sites": {
+        "title": "Sites that interest you",
+        "news": "News",
+        "financing": "Financing and Property",
+        "auctions": "Auctions",
+        "real_estate_law": "Real Estate Law",
+        "investment_opportunities": "Investment Opportunities",
+        "Who we are": "Who we are",
+        "Advertise with us": "Advertise with us",
+        "Aqar 24 Program": "Akar 24 Program",
+        "Articles": "Articles",
+        "Infographic": "Infographic"
+      },
+      "help": {
+        "title": "Help",
+        "terms_conditions": "Terms and Conditions",
+        "team": "The Team"
+      },
+      "contact": {
+        "title": "Contact Us"
+      }
+    },
+     "rights": "© 2024 - Akar 24. All rights reserved. Designed by "
+  },
+
+
+  "home":{
+    "hero_title" : "Akar 24, your ideal property one step away",
+    "video":{
+      "title":"About Akar 24:"
+    },
+    "stats":{
+      "processes": "Management process",
+      "properties":"Property sold",
+      "customers":"loyal customer",
+      "avidProperties" : "Property available"
+    },
+    "services":{
+      "title":"Akar 24 Services :",
+      "Real estate marketing": "Real estate marketing",
+      "Real estate mediation": "Real estate mediation",
+      "Owners Association": "Owners Association"
+    },
+    "categories":{
+      "title":"Properties provided by Akar 24",
+      "Exhibitions" : "Exhibitions",
+      "Offices" : "Offices",
+      "Villas & palaces" : "Villas & palaces",
+      "Agricultural land" : "Agricultural land",
+      "Apartments" : "Apartments",
+      "Buildings" : "Buildings"
+    },
+    "blog" : {
+      "title":"Akar 24 Blog"
+    }
+  },
+
+  "news":{
+      "hero_title":"Be aware of the latest News with Akar 24",
+      "section_title":"Latest news from Akar 24"
+  },
+
+  "financing":{
+    "hero_title":"Learn about real estate financing for Akar 24",
+    "section_title":"Real Estate Financing for Akar 24:",
+    "details":{
+      "features":"Real estate financing features",
+      "Types": "Types of real estate financing:",
+      "Tips": "Tips to get the best real estate financing offer:",
+      "Steps": "Steps to obtain real estate financing:"
+    }
+  },
+  "auction":{
+    "hero_title":"Find out the real estate auction for Akar 24",
+    "section_title":"Akar 24 Auctions",
+    "filter":{
+      "All": "All",
+      "Expired": "Expired",
+      "Upcoming": "Upcoming",
+      "Ongoing": "Ongoing"
+  }
+},
+"law":{
+  "hero_title":"What is real estate law for Akar 24",
+  "section_title":"Real Estate Law for Akar 24:",
+  "details":{
+    "importance":"The importance of real estate law:",
+    "principles" : "Principles of Real Estate Law:",
+    "sources":"Sources of real estate law:",
+    "examples":"Real estate law examples:"
+  }
+},
+"Investment":{
+  "hero_title":"Here are some opportunities Investment from Akar 24",
+  "section_title":"Investment opportunities from Akar 24"
+},
+
+  "about":{
+        "hero_title":"Get to know Akar 24 who we are? ",
+        "section_title" : "Who is Akar 24?",
+        "details":{
+          "Our vision": "Our vision:",
+          "Our goals": "Our goals:",
+          "Our principles": "Our principles:"
+        }
+  },
+  "Advertise":{
+      "title":"Advertise your Property",
+      "inputs":{
+        "Post your ad": "Post your ad",
+        "Property_Type": "Property Type:",
+        "Phone_number": "Phone number:",
+        "Address_Akar": "address",
+        "License_Number": "License Number:",
+        "National_identity": "National identity:",
+        "Name_Akar": "Property name:"
+      }
+  },
+  "program":{
+    "hero_title":"Learn about the real estate program from Akar 24",
+    "section_title":"Akar 24 Program"
+  },
+
+  "Introductory video":{
+    "title":"Introductory video about Akar 24:"
+  },
+
+  "Articles":{
+         "hero_title":"Blog articles from Akar 24",
+         "section_title":"Akar 24 Blog",
+          "latest_articles":"Latest articles:",
+          "all_articles" : "All articles:"
+  },
+  "InfoGraphic":{
+    "hero_title":"Info Graphic Aqar 24"
+  }
+}

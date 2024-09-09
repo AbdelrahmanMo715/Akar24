@@ -1,0 +1,164 @@
+{
+  "navLinks":{
+    "Home": "الرئيسية",
+    "News": "الاخبار",
+    "Finance & real estate": "تمويل وعقار",
+    "Auctions": "مزادات",
+    "Real Estate Law": "القانون العقاري",
+    "Investment_opportunities": "الفرص الاستثماريه",
+    "Who we are": "من نحن",
+    "Advertise with us": "أعلن معنا",
+    "Aqar 24 Program": "برنامج عقار 24",
+    "Articles": "مقالات",
+    "Infographic": "انفو جرافيك"
+  },
+  "Akar24":"عقار 24",
+  "ModeDay": "الوضع النهاري",
+  "ModeNight": "الوضع الليلي",
+  "EN": "الإنجليزية",
+  "AR": "العربية",
+  "More": "المزيد",
+
+  "footer": {
+    "slogan": "عقارك المثالي على بعد خطوة",
+    "follow_Us": "تابعنا على",
+    "sections": {
+      "sites": {
+        "title": "مواقع تهمك",
+        "news": "الأخبار",
+        "financing": "تمويل وعقار",
+        "auctions": "مزادات",
+        "real_estate_law": "القانون العقاري",
+        "investment_opportunities": "فرص استثمارية",
+        "Who we are": "من نحن",
+        "Advertise with us": "أعلن معنا",
+        "Aqar 24 Program": "برنامج عقار 24",
+        "Articles": "مقالات",
+        "Infographic": "انفو جرافيك"
+
+      },
+      "help": {
+        "title": "المساعدة",
+        "terms_conditions": "الشروط والأحكام",
+        "team": "الفريق"
+      },
+      "contact": {
+        "title": "تواصل معنا"
+      }
+    },
+    "rights": "© 2024 عقار 24. جميع الحقوق محفوظة. تم تصميم الموقع بواسطة "
+
+  },
+  "home":{
+    "hero_title" : "عقار 24 , عقارك المثالي على بعـد خطـــوة.",
+    "video":{
+      "title":"عن عقار 24:"
+    },
+    "stats":{
+      "processes": "عملية تسيير",
+      "properties":"عقار تم بيعه",
+      "customers":"زبون وفيّ",
+      "avidProperties" : "عقار متــاح"
+    },
+    "services":{
+      "title":"خدمات عقار 24:",
+      "Real estate marketing": "التسويق العقاري",
+      "Real estate mediation": "الوساطة العقارية",
+      "Owners Association": "اتحاد الملاك"
+    },
+    "categories":{
+      "title":"Properties provided by Akar 24",
+      "Exhibitions" : "معارض",
+      "Offices" : "مكاتب",
+      "Villas & palaces" : "فلل و قصور",
+      "Agricultural land" : "أراضى زراعية",
+      "Apartments" : "شقق",
+      "Buildings" : "عمائر"
+      
+    },
+    "blog" : {
+      "title":"Akar 24 Blog"
+    }
+  },
+  
+  "news":{
+    "hero_title":"كـن على علم بـأخر الاخبار مع عـقار 24",
+    "section_title":"أخر أخبار عقار 24:"
+},
+
+"financing":{
+  "hero_title":"تعرف على التمويل الـعــقاري لـعـقـار 24",
+  "section_title":"التمويل العقاري لعقار 24:",
+  "details":{
+    "features":"مميزات التمويل العقاري",
+    "Types": "أنواع تمويل العقاري:",
+    "Tips": "نصائح للحصول على أفضل عرض للتمويل العقاري:",
+    "Steps": "خطوات للحصول على التمويل العقاري:"
+  }
+},
+"auction":{
+  "hero_title":"استدل على المزاد الـعــقاري لـعـقـار 24",
+  "section_title":"مزادات عقار 24",
+  "filter":{
+    "All": "الكل",
+    "Expired": " منتهي",
+    "Upcoming": "قادم",
+    "Ongoing": "جارى"
+  }
+},
+"law":{
+  "hero_title":"ما هو قانون العقاري لعقار24 ؟",
+  "section_title":"القانون العقاري لعقار 24:",
+  "details":{
+    "importance":"أهمية القانون العقاري:",
+    "principles" : "مبادئ القانون العقاري:",
+    "sources":"مصادر القانون العقاري:",
+    "examples":"أمثلة القانون العقاري:"
+  }
+},
+"Investment":{
+  "hero_title":"اليك بعض الفرص الاستثمارية من عقار 24",
+  "section_title":"فرص استثمارية من عقار 24"
+},
+
+"about":{
+        "hero_title":"تعرف على عـقار 24 من نحن؟",
+        "section_title" : "من عقار 24",
+        "details":{
+          "Our vision": "رؤيتنا:",
+          "Our goals": "اهدافنا:",
+          "Our principles": "مبادئنا:"
+        }
+  },
+  "Advertise":{
+    "title":"أعلن عن عقارك",
+    "inputs":{
+      "Post your ad": "أنشر الإعلان",
+      "Property_Type": "نوع العقار:",
+      "Phone_number": "رقم الهاتف:",
+      "Address_Akar": "العنوان",
+      "License_Number": "رقم الترخيص:",
+      "National_identity": "الهوية الوطنية:",
+      "Name_Akar": "اسم العقار:"
+    }
+},
+"program":{
+  "hero_title":"تعرف على البرنامج العقاري من عـقار 24",
+  "section_title":"برنامج عقار 24"
+},
+
+"Introductory video":{
+  "title":"فيديو تعريفي عن عقار 24:"
+},
+
+"Articles":{
+  "hero_title":"مقالات مدونة من عـقار 24",
+  "section_title":"مدونة عقار 24 ",
+  "latest_articles":"أخر المقالات:",
+  "all_articles" : "كل المقالات:"
+},
+"InfoGraphic":{
+  "hero_title":"انفو جرافيك عـقار 24"
+}
+
+}
