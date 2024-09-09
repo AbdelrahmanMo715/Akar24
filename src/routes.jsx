@@ -22,17 +22,17 @@ const AppRoutes = () => {
     <Navbar/>
     <HelmetProvider>
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/news" element={<News />} />
-      <Route path="financing" element={<Financing />} />
-      <Route path="law" element={<Law />} />
-      <Route path="InvestOpportunities" element={<InvestOpportunities/>}/>
-      <Route path="auctions" element={<Auction/>}/>
-      <Route path="advertise" element={<Advertise/>}/>
-      <Route path="about" element={<About/>}/>
-      <Route path="infoGraphic" element={<InfoGraphic/>}/>
-      <Route path="articles" element={<Articles/>}/>
-      <Route path="program" element={<Program/>}/>
+      <Route path="/Akar24/" element={<Home />} />
+      <Route path="/Akar24/news" element={<News />} />
+      <Route path="/Akar24/financing" element={<Financing />} />
+      <Route path="/Akar24/law" element={<Law />} />
+      <Route path="/Akar24/InvestOpportunities" element={<InvestOpportunities/>}/>
+      <Route path="/Akar24/auctions" element={<Auction/>}/>
+      <Route path="/Akar24/advertise" element={<Advertise/>}/>
+      <Route path="/Akar24/about" element={<About/>}/>
+      <Route path="/Akar24/infoGraphic" element={<InfoGraphic/>}/>
+      <Route path="/Akar24/articles" element={<Articles/>}/>
+      <Route path="/Akar24/program" element={<Program/>}/>
     </Routes>
     </HelmetProvider>
     <Footer/>
