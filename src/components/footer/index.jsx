@@ -57,17 +57,17 @@ function Footer() {
         <h3 className="text-light-text dark:text-white font-bold mb-3">{t('footer.sections.sites.title')}</h3>
         <div className="flex gap-14 justify-center md:justify-start">
         <ul className="text-light-sm-title dark:text-dark-sm-title font-medium">
-          <li className="mb-2"><Link to="/news">{t('footer.sections.sites.news')}</Link></li>
-          <li className="mb-2"><Link to="/financing">{t('footer.sections.sites.financing')}</Link></li>
-          <li className="mb-2"><Link to="/auctions">{t('footer.sections.sites.auctions')}</Link></li>
-          <li className="mb-2"><Link to="/law">{t('footer.sections.sites.real_estate_law')}</Link></li>
-          <li className="mb-2"><Link to="/InvestOpportunities">{t('footer.sections.sites.investment_opportunities')}</Link></li>
+          <li className="mb-2"><Link to="/Akar24/news">{t('footer.sections.sites.news')}</Link></li>
+          <li className="mb-2"><Link to="/Akar24/financing">{t('footer.sections.sites.financing')}</Link></li>
+          <li className="mb-2"><Link to="/Akar24/auctions">{t('footer.sections.sites.auctions')}</Link></li>
+          <li className="mb-2"><Link to="/Akar24/law">{t('footer.sections.sites.real_estate_law')}</Link></li>
+          <li className="mb-2"><Link to="/Akar24/InvestOpportunities">{t('footer.sections.sites.investment_opportunities')}</Link></li>
         </ul>
         <ul className="text-light-sm-title dark:text-dark-sm-title font-medium">
-        <li className="mb-2"><Link to="about">{t('footer.sections.sites.Who we are')}</Link></li>
-        <li className="mb-2"><Link to="advertise">{t('footer.sections.sites.Advertise with us')}</Link></li>
-        <li className="mb-2"><Link to="program">{t('footer.sections.sites.Aqar 24 Program')}</Link></li>
-        <li className="mb-2"><Link to="articles">{t('footer.sections.sites.Articles')}</Link></li>
+        <li className="mb-2"><Link to="/Akar24/about">{t('footer.sections.sites.Who we are')}</Link></li>
+        <li className="mb-2"><Link to="/Akar24/advertise">{t('footer.sections.sites.Advertise with us')}</Link></li>
+        <li className="mb-2"><Link to="/Akar24/program">{t('footer.sections.sites.Aqar 24 Program')}</Link></li>
+        <li className="mb-2"><Link to="/Akar24/articles">{t('footer.sections.sites.Articles')}</Link></li>
       </ul>
         
         </div>

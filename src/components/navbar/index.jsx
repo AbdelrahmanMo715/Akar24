@@ -103,11 +103,11 @@ function Navbar() {
           className="absolute z-[555] top-16 left-16 md:left-0 bg-white text-light-text dark:text-white dark:bg-dark-bg  shadow-md rounded-md w-48 p-2"
       >
           <ul className="text-right">
-              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/about">{t('navLinks.Who we are')}</NavLink></li>
-              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/advertise">{t('navLinks.Advertise with us')}</NavLink></li>
-              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/program">{t('navLinks.Aqar 24 Program')}</NavLink></li>
-              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/articles">{t('navLinks.Articles')}</NavLink></li>
-              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/infoGraphic">{t('navLinks.Infographic')}</NavLink></li>
+              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/Akar24/about">{t('navLinks.Who we are')}</NavLink></li>
+              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/Akar24/advertise">{t('navLinks.Advertise with us')}</NavLink></li>
+              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/Akar24/program">{t('navLinks.Aqar 24 Program')}</NavLink></li>
+              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/Akar24/articles">{t('navLinks.Articles')}</NavLink></li>
+              <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700"><NavLink className="block w-full text-xl py-1 text-start" onClick={toggleDropdown} to="/Akar24/infoGraphic">{t('navLinks.Infographic')}</NavLink></li>
               <li className="py-1 hover:bg-light-sm-bg hover:dark:bg-gray-700">
                   <button className="block w-full text-start text-xl py-1" 
                     onClick={toggleTheme}>{theme === "dark" ? t("ModeDay") : t("ModeNight")}
@@ -120,12 +120,12 @@ function Navbar() {
   )}
   </div>
       <ul className={`nav-links bg-white dark:bg-dark-bg ${isOpen ? 'open' : ''}`}>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/"> {t("navLinks.Home")}</NavLink></li>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/news"> {t("navLinks.News")}</NavLink></li>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/financing">{t("navLinks.Finance & real estate")}</NavLink></li>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/auctions">{t("navLinks.Auctions")}</NavLink></li>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/law">{t("navLinks.Real Estate Law")}</NavLink></li>
-        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/InvestOpportunities">{t("navLinks.Investment_opportunities")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/"> {t("navLinks.Home")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/news"> {t("navLinks.News")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/financing">{t("navLinks.Finance & real estate")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/auctions">{t("navLinks.Auctions")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/law">{t("navLinks.Real Estate Law")}</NavLink></li>
+        <li onClick={toggleMenu} className={`${isOpen ? 'fade' : ''}`}><NavLink className="text-light-text dark:text-white" to="/Akar24/InvestOpportunities">{t("navLinks.Investment_opportunities")}</NavLink></li>
         <button onClick={toggleMenu} className="absolute lg:hidden left-5 top-5 text-3xl text-light-text dark:text-white "><IoMdClose/></button>
       </ul>
       </div>
