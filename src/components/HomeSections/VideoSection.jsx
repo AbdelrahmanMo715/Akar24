@@ -1,5 +1,5 @@
 import Title from "../Title/Title"
-import videoEx from "../../assets/Shooting-Aspire-Vero-16-Sapphire-Banner.mp4";
+import videoEx from "../../assets/vedio.png";
 import { t } from "i18next";
 import IntroVideo from "../Video/IntroVideo";
 function VideoSection() {

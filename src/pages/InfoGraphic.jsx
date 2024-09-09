@@ -1,7 +1,7 @@
 import HeroMore from "../components/Heros/HeroMore"
 import HeroGraphic from "../assets/infograaphic.png"
 import Title from "../components/Title/Title"
-import videoEx from "../assets/Shooting-Aspire-Vero-16-Sapphire-Banner.mp4";
+import videoEx from "../assets/vedio.png";
 import { t } from "i18next";
 import { useEffect } from "react";
 import IntroVideo from "../components/Video/IntroVideo";
